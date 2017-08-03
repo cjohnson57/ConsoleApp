@@ -2,6 +2,8 @@
 
 An entityframework practice program. Connected to a database on my computer so you probably can't use it if you download it.
 
+It's not actually a console app, it just started as one but over time it became a Windows Forms app.
+
 Connects to a database of countries and prints a list of them. 
 
 You can edit a country's properties, delete a country, or add a new country.
