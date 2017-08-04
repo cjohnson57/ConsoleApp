@@ -4,6 +4,8 @@ An entityframework practice program. Connected to a database on my computer so y
 
 It's not actually a console app, it just started as one but over time it became a Windows Forms app.
 
+The stuff I wrote is in C#, but the entityframework Powershell scripts are so long GitHub considers it a Powershell program.
+
 Connects to a database of countries and prints a list of them. 
 
 You can edit a country's properties, delete a country, or add a new country.
