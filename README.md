@@ -6,11 +6,11 @@ It's not actually a console app, it just started as one but over time it became 
 
 The stuff I wrote is in C#, but the entityframework Powershell scripts are so long GitHub considers it a Powershell program.
 
-Connects to a database of countries and prints a list of them. 
+Connects to a database of countries and prints a list of them (Form4.cs)
 
-You can edit a country's properties, delete a country, or add a new country.
+You can edit a country's properties (Form1.cs), delete a country (Form2.cs), or add a new country (Form3.cs)
 
-You can also find a particular country so you don't have to scroll through the entire list.
+You can also find a particular country so you don't have to scroll through the entire list (Form5.cs) 
 
 For fun I added the ability to add a random country with an attempt at realistic values (besides name which is just a random string,
 although then the 3-letter country code is based on that random string.)
