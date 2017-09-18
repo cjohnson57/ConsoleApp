@@ -1,8 +1,6 @@
-# ConsoleApp
+# Entity Framework Practice
 
 An entityframework practice program. Connected to a database on my computer so you probably can't use it if you download it.
-
-It's not actually a console app, it just started as one but over time it became a Windows Forms app.
 
 The stuff I wrote is in C#, but the entityframework Powershell scripts are so long GitHub considers it a Powershell program.
 
