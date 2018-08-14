@@ -2,8 +2,6 @@
 
 An entityframework practice program. Connected to a database on my computer so you probably can't use it if you download it.
 
-The stuff I wrote is in C#, but the entityframework Powershell scripts are so long GitHub considers it a Powershell program.
-
 Connects to a database of countries and prints a list of them (Form4.cs)
 
 You can edit a country's properties (Form1.cs), delete a country (Form2.cs), or add a new country (Form3.cs)
